@@ -1,0 +1,30 @@
+
+class Journal
+---------------------------------
+
+uName : String
+filePW : String
+sc : Scanner
+purple : String
+reset : String
+red : String
+yellow : String
+green : String
+blue : String
+
+---------------------------------
+
++ main( String[] ) : void
+- authentication() : void
++ signIn() : void
++ signUp() : void
++ signOut() : void
++ welcome() : void
+- menu() : void
+- options() : String
++ JournalWrite() : void
+- JournalRead() : void
++ readOnlyOne() : void
+- selfDestruct() : void
+
+
